@@ -34,4 +34,9 @@ p < 0.05(significance value) so reject Null hypothesis
 - **Methodology:** A/B Testing
 - **Statistical Test:** T-test
 
+## Recommendations
+
+- Encourage customers to pay with credit cards to capitalize on the potential for generating more revenue for taxi drivers
+- Implement strategies such as offering incentives or discounts for credit card transactions to incentivize customers to choose this paymnet method.
+- provide seamless and secure credit card paymnet options to enhance customer convenience and encourage adoption of this preferred paymnet method.
 
