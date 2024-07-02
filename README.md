@@ -27,11 +27,11 @@ p < 0.05(significance value) so reject Null hypothesis
 
 ### Techstack Used:
 
-**Programming Language:** Python
-**Libraries:** pandas, numpy, scipy, matplotlib, seaborn
-**Environment:** Jupyter Notebook
-**Version Control:** Git
-**Methodology:** A/B Testing
-**Statistical Test:** T-test
+- **Programming Language:** Python
+- **Libraries:** pandas, numpy, scipy, matplotlib, seaborn
+- **Environment:** Jupyter Notebook
+- **Version Control:** Git
+- **Methodology:** A/B Testing
+- **Statistical Test:** T-test
 
 
