@@ -20,7 +20,10 @@ Is there a relationship between total fare amount and paymnet type and can we nu
 
 From QQ plot it is very evident that the data is not normally distributed. So performed T-test and the values are as below:
 
+```bash
 T statistic 165.6989722565007 p-value 0.0
 p < 0.05(significance value) so reject Null hypothesis
+```
+
 
 
